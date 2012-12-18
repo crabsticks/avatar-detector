@@ -1,0 +1,24 @@
+{
+  "name": "avatar-detector",
+  "version": "0.1.0",
+  "description": "A server that works with Harvey's in-world avatar detector script to log passage of avatars through a Second Life sim",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crabsticks/avatar-detector.git"
+  },
+  "keywords": [
+    "SL",
+    "avatar"
+  ],
+  "author": "Harvey Crabsticks <harvey.crabsticks@gmail.com>",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "a9b42fa82d32503555d3fb49f035b594bed38b07",
+  "dependencies": {
+    "restify": "*"
+  }
+}
